@@ -19,7 +19,7 @@ The Client List Data Entry Application is a simple desktop GUI tool developed in
 
 1. Install Python 3.x on your system.
 2. Install the required libraries (Tkinter and Openpyxl) if not already installed. You can use pip to install them:
-3. Run the main.py script.
+3. Run the client_data_entry_v1.1.py script.
 4. Input the client information in the provided fields.
 5. Click the "Submit" button to save the data to the Excel file.
 6. The Excel file will be created or appended with the entered data.
